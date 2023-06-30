@@ -1,0 +1,84 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1vw;
+    text-decoration: none;
+}
+.nav{
+    height: 100%;
+    min-width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2vh 0;
+    text-decoration: none;
+}
+.btn{
+    width: 170px;
+    height: 40px;
+    border-radius: 8px;
+    color: white;
+    background-color: #3882f6;
+    border: none;
+    margin-top: 40px;
+}
+.my-img{
+    width: 400px;
+    height: auto;
+    margin-left: 10px;
+    
+}
+.topic-img{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    margin-left: 200px;
+    border-radius: 10px;
+    width: 250px;
+    height: auto;
+    border-radius: 50px;
+}
+.description{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: larger;
+    margin-right: 5pc;
+}
+.hello{
+    font-size: larger;
+    font-style: italic;
+}
+.intro{
+    font-size: large;
+    font-style: oblique;
+}
+.resume-link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+.links {
+    padding: 1vw;
+    display: flex;
+    gap: 3vw;
+  }
+.footer-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 1vw;
+}
+.hide {
+  display: none;
+}
+.footer-image{
+    margin-left: 400px;
+    margin-top: -200px;
+    border-radius: 10px;
+    width: 250px;
+    height: auto;
+    border-radius: 50px;
+}
+
